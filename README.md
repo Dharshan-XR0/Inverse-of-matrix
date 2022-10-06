@@ -37,8 +37,11 @@ print(l2)
 array1=np.array(l2)
 arrayinverse = np.linalg.inv(array1)
 print(arrayinverse)
+```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/113497491/194274929-07c2b2bf-85b1-452f-af38-fa349614ac0c.png)
+
 
 ## RESULT:
 Thus a program is written to find the inverse of the matrix.
