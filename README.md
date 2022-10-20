@@ -3,7 +3,13 @@
 ## AIM:
 To write a python program to find the inverse of a matrix.
 
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
+
 ## ALGORITHM:
+
 ### Step 1:
 
 Import Numpy module as np.
